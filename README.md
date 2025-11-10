@@ -115,6 +115,13 @@ models/
 |20251595006 | Alvaro Zarabanda | teclado | data/raw/20251595006_Teclado.mp4 |
 |20251595006 | Alvaro Zarabanda | mouse | data/raw/20251595006_Mouse.mp4 |
 |20251595006 | Alvaro Zarabanda | pantalla | data/raw/20251595006_Pantalla.mp4 |
+|20242595001 | Sebastian Forero | cpu | data/raw/20242595001_cpu.mp4 |
+|20242595001 | Sebastian Forero | mesa | data/raw/20242595001_mesa.mp4 |
+|20242595001 | Sebastian Forero | mouse | data/raw/20242595001_mouse.mp4 |
+|20242595001 | Sebastian Forero | nada | data/raw/20242595001_nada.mp4 |
+|20242595001 | Sebastian Forero | pantalla | data/raw/20242595001_pantalla.mp4 |
+|20242595001 | Sebastian Forero | silla | data/raw/20242595001_silla.mp4 |
+|20242595001 | Sebastian Forero | teclado | data/raw/20242595001_teclado.mp4 |
 (Agrega tu fila al contribuir)
 
 ---
