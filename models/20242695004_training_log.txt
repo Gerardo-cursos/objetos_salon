@@ -1,0 +1,2 @@
+
+[2025-10-20 10:36:52] Experimento 1 acc=0.359 | Experimento 2 acc=0.940 → mejor=Exp2 (0.940)
